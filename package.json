@@ -1,0 +1,12 @@
+{
+  "name": "hf-n8n-keepalive",
+  "version": "1.0.0",
+  "main": "ping.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ping.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
